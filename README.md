@@ -37,3 +37,5 @@
 ![](/imgP2/pregunta2-2p2.png)
 ![](/imgP2/pregunta1-2p2.png)
 #### 5. Instal.lar i configurar el programa phppgadmin: que ens donara accés via web al nostre gestor
+![](/imgP3/pregunta5-1p3.png)
+![](/imgP3/pregunta5-2p3.png)
