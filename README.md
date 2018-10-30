@@ -39,3 +39,5 @@
 #### 5. Instal.lar i configurar el programa phppgadmin: que ens donara accés via web al nostre gestor
 ![](/imgP3/pregunta5-1.png)
 ![](/imgP3/pregunta5-2.png)
+
+#  4 Utilització bàsica Postgresql 
