@@ -26,7 +26,8 @@
 ![](/imgP3/pregunta1-1p3.png)
 ![](/imgP3/pregunta1-2p3.png)
 #### 2. Crear almenys una base de dades nova.
-
+![](/imgP3/pregunta2-1p3.png)
+![](/imgP3/pregunta2-2p3.png)
 #### 3. Afegir almenys una base de dades. Podeu anar http://pgfoundry.org/projects/dbsamples/ i descarregar la bases de dades de prova ( pagila). Trobareu un zip amb un fitxer sql, schema i altre data.
 
 #### 4. Configurar els permisos i roles segons la descripció feta en l’apartat 2.
