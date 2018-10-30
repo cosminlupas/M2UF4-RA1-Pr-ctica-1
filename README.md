@@ -22,3 +22,4 @@
 ![](/imgP2/pregunta1-2p2.png)
 
 #  3 Configuració SGBD Postgresql 
+#### 1. Per accedir per primer cop al SGBD haurieu d’entrar com usuari postgres utilitzant la instrucció: sudo -i -u postgres, i un cop estem com usuari postgres fem psql per connectarnos a la base de dades.
