@@ -46,7 +46,7 @@
 ![](/imgP4/p1-2p4.png)
 ![](/imgP4/p1-3p4.png)
 #### 2. Executeu algunes instruccions sql en el terminal del SGBD. ( les instruccions SQL acaven en ;)
-
+![](/imgP4/p2-1p4.png)
 #### 3. Crear un fitxer sql, utilitzant per exemple geany, i carregar-lo des de consola utilitzant la instrucció \i script1.sql ( vigileu el path). Podeu utilitzar com referència els fitxers de la base de dades pagila descarregada en activitats anteriors
 
 #### 4. Expliqueu alguns paràmetres de psql i el que fa realment ( sistema)
