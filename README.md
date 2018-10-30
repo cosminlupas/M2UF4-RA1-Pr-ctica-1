@@ -12,11 +12,11 @@
 
 # 2 Configuració sistema
 #### 1. AdministradorSistema : tindrà els permisos de root en el sistema ( en particular instal.lar programas, accedir carpetes del sistema, crear usuaris...), però en el SGBD serà un usuari «normal». 
-![](/imgP1/pregunta1-1p2.png)
-![](/imgP1/pregunta1-2p2.png)
+![](/imgP2/pregunta1-1p2.png)
+![](/imgP2/pregunta1-2p2.png)
 #### 2. AdministradorBD: en el sistema tendrà permisos de usuari normal i en la base de Dades «superuser»: podra crear bases de dades, crear taules i crear usuaris/roles. 
-![](/imgP1/pregunta2-1p2.png)
-![](/imgP1/pregunta2-2p2.png)
+![](/imgP2/pregunta2-1p2.png)
+![](/imgP2/pregunta2-2p2.png)
 #### 3. Usuari: No tindrà permisos especials ni en el sistema ni en el SGBD, però podra accedir a tots dos.
-![](/imgP1/pregunta2-1p2.png)
-![](/imgP1/pregunta2-2p2.png)
+![](/imgP2/pregunta3-1p2.png)
+![](/imgP2/pregunta1-2p2.png)
