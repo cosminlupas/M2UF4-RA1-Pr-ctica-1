@@ -20,3 +20,5 @@
 #### 3. Usuari: No tindrà permisos especials ni en el sistema ni en el SGBD, però podra accedir a tots dos.
 ![](/imgP2/pregunta3-1p2.png)
 ![](/imgP2/pregunta1-2p2.png)
+
+#  3 Configuració SGBD Postgresql 
