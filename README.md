@@ -42,7 +42,9 @@
 
 #  4 Utilització bàsica Postgresql 
 #### 1. Cerqueu en internet i proveu les instruccions més usuals en consola del SGBD.( Ex: \dt, \du, exit...)
-
+![](/imgP4/p1-1p4.png)
+![](/imgP4/p1-2p4.png)
+![](/imgP4/p1-3p4.png)
 #### 2. Executeu algunes instruccions sql en el terminal del SGBD. ( les instruccions SQL acaven en ;)
 
 #### 3. Crear un fitxer sql, utilitzant per exemple geany, i carregar-lo des de consola utilitzant la instrucció \i script1.sql ( vigileu el path). Podeu utilitzar com referència els fitxers de la base de dades pagila descarregada en activitats anteriors
