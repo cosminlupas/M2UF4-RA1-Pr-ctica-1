@@ -41,3 +41,6 @@
 ![](/imgP3/pregunta5-2.png)
 
 #  4 Utilització bàsica Postgresql 
+#### 1. Cerqueu en internet i proveu les instruccions més usuals en consola del SGBD.( Ex: \dt, \du, exit...)
+
+
