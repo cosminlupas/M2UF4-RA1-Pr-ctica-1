@@ -9,3 +9,5 @@
 ![](/imgP1/pregunta4p1.png)
 #### 5. Es recomana així mateix instal.lar els programes Synaptic ( gestió de paquets) i geany (editor de text). 
 ![](/imgP1/pregunta5p1.png)
+
+# 2 Configuració sistema
