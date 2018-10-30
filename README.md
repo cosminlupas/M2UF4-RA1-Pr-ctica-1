@@ -11,3 +11,4 @@
 ![](/imgP1/pregunta5p1.png)
 
 # 2 Configuració sistema
+#### 1. AdministradorSistema : tindrà els permisos de root en el sistema ( en particular instal.lar programas, accedir carpetes del sistema, crear usuaris...), però en el SGBD serà un usuari «normal». 
