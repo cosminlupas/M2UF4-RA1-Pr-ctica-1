@@ -51,3 +51,7 @@
 ![](/imgP4/p3-1p4.png)
 ![](/imgP4/p3-2p4.png)
 #### 4. Expliqueu alguns paràmetres de psql i el que fa realment ( sistema)
+- psql -l -> serveix per veure les base de dades creades 
+- psql "nom de la db" -> serveix per entrar a la base de dades 
+- \d -> per veure les relacions amb el schema, name, type, owner
+- etc .....
