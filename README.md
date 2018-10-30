@@ -33,5 +33,7 @@
 ![](/imgP3/pregunta3-2p3.png)
 ![](/imgP3/pregunta3-3p3.png)
 #### 4. Configurar els permisos i roles segons la descripció feta en l’apartat 2.
-
+![](/imgP2/pregunta1-2p2.png)
+![](/imgP2/pregunta2-2p2.png)
+![](/imgP2/pregunta1-2p2.png)
 #### 5. Instal.lar i configurar el programa phppgadmin: que ens donara accés via web al nostre gestor
