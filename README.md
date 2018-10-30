@@ -29,3 +29,5 @@
 #### 3. Afegir almenys una base de dades. Podeu anar http://pgfoundry.org/projects/dbsamples/ i descarregar la bases de dades de prova ( pagila). Trobareu un zip amb un fitxer sql, schema i altre data.
 
 #### 4. Configurar els permisos i roles segons la descripció feta en l’apartat 2.
+
+#### 5. Instal.lar i configurar el programa phppgadmin: que ens donara accés via web al nostre gestor
