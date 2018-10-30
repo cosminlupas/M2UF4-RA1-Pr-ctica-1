@@ -43,4 +43,4 @@
 #  4 Utilització bàsica Postgresql 
 #### 1. Cerqueu en internet i proveu les instruccions més usuals en consola del SGBD.( Ex: \dt, \du, exit...)
 
-
+#### 2. Executeu algunes instruccions sql en el terminal del SGBD. ( les instruccions SQL acaven en ;)
