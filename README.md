@@ -18,3 +18,5 @@
 ![](/imgP1/pregunta2-1p2.png)
 ![](/imgP1/pregunta2-2p2.png)
 #### 3. Usuari: No tindrà permisos especials ni en el sistema ni en el SGBD, però podra accedir a tots dos.
+![](/imgP1/pregunta2-1p2.png)
+![](/imgP1/pregunta2-2p2.png)
